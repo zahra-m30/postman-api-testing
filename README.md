@@ -1,6 +1,6 @@
 
-Pruebas de API REST con Postman usando JSONPlaceholder
-Proyecto de pruebas funcionales de API REST utilizando Postman
+Pruebas de API REST con Postman usando JSONPlaceholder.
+Proyecto de pruebas funcionales de API REST utilizando Postman.
 y la API pública JSONPlaceholder.
 
 Tecnologías utilizadas
